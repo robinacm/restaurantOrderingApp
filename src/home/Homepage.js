@@ -1,5 +1,6 @@
 import React from "react";
 import SideNavbar from "../common/component/SideNavbar";
+import "./HomePage.css"
 
 class homepage extends React.Component {
     render() {
